@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android51NotificationTest</string>
+    <string name="hello_world">Device below <b>Android5.1</b> does not have this issue.</string>
+    <string name="action_settings">Settings</string>
+    <string name="will_crash_android_22">Click to show notification that <b>will</b> crash SystemUI on <b>Android 5.1</b></string>
+    <string name="wont_crash_android_22">Click to show notification that <b>will not</b> crash SystemUI on <b>Android 5.1</b></string>
+
+</resources>
